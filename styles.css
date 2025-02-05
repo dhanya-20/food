@@ -7,7 +7,7 @@
 html, body {
     height: 100%;
     font-family: 'Arial', sans-serif;
-    background-color: #eaf7fa; /* Light blue background */
+    background-color: #eaf7fa;
 }
 
 body {
@@ -15,6 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 20px;
 }
 
 h2 {
