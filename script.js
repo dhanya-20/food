@@ -4,7 +4,12 @@ const preservationMethods = {
     "fish": "Freezing, Smoking, Drying, Canning",
     "meat": "Freezing, Curing, Smoking",
     "apples": "Refrigeration, Drying, Canning",
-    "tomatoes": "Canning, Freezing, Drying"
+    "tomatoes": "Canning, Freezing, Drying",
+    "bread": "Freezing, Refrigeration, Dehydration",
+    "carrots": "Canning, Freezing, Refrigeration",
+    "berries": "Freezing, Canning, Dehydration",
+    "lettuce": "Refrigeration, Freezing",
+    "potatoes": "Canning, Freezing, Drying"
 };
 
 // Function to handle sending messages
